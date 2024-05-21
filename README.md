@@ -1,4 +1,4 @@
-This is the dataset repository for the "Forest Fire Risk Assessment and Target Detection Model For North America." Unfortunately, do to github only allowing files less than 25mb to be hosted in repositories, it’s impossible to actually host the datasets here. Instead, I’ll provide links to the most immediate and easiest download location:
+This is the dataset repository for the "Forest Fire Risk Assessment and Target Detection Model For North America." Unfortunately, do to github only allowing files less than 25mb to be hosted in repositories, it’s impossible to actually host most of the datasets here. Instead, I’ll provide links to the most immediate and easiest download location for those I can't post, and a .zip file for those that I can:
 
 Spread Modeling Database: https://drive.google.com/file/d/1B582y8_cPWxNuevpm3ZM-SZf_23HRUAQ/view
 
